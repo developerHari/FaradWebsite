@@ -15,6 +15,15 @@
                 <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                 <p><a href="mailto:{{ with .Site.Params.contact.email }}{{ . }}{{ end }}">{{ with .Site.Params.contact.email }}{{ . }}{{ end }}</a></p>
             </div>
+            <div class="col-lg-4 text-center">
+                <a href="{{ with .Site.Params.contact.facebook }}{{ . }}{{ end }}"><i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+            </div>
+            <div class="col-lg-4 text-center">
+                <a href="{{ with .Site.Params.contact.twitter }}{{ . }}{{ end }}"><i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+            </div>
+            <div class="col-lg-4 text-center">
+                <a href="{{ with .Site.Params.contact.linkedin }}{{ . }}{{ end }}"><i class="fa fa-linkedin fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+            </div>
         </div>
     </div>
 </section>
