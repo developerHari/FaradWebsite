@@ -44,7 +44,7 @@ theme = "hugo-creative-theme"
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Taking Home Automation a step ahead"
 		subtitle   = "Farad is designed in love with home, bringing all your lovable devices under one roof"
-		buttonText = "Find out more"
+		buttonText = "Find out more surya"
 
 
 	# About section
