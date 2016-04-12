@@ -35,6 +35,7 @@ theme = "hugo-creative-theme"
 			about     = "About"
 			services  = "Services"
 			portfolio = "Products"
+            blog      = "Blog"
 			contact   = "Contact"
 
 
