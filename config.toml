@@ -34,7 +34,7 @@ theme = "hugo-creative-theme"
 		[params.navigation.links]
 			about     = "About"
 			services  = "Services"
-			portfolio = "Portfolio"
+			portfolio = "Products"
 			contact   = "Contact"
 
 
@@ -49,7 +49,7 @@ theme = "hugo-creative-theme"
 	# About section
 	[params.about]
 		headline    = "We've got what you need!"
-		description = "'Be it Android or Linux we have wide range of expertise from creating an Application to Operating Systems'"
+		description = "'Be it Android or Linux we have wide range of expertise from creating an Application to Customizing an Operating Systems for your needs'"
 		buttonText  = "Get started!"
 
 
