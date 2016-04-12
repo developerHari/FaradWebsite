@@ -29,7 +29,7 @@ theme = "hugo-creative-theme"
 
 	# Navigation
 	[params.navigation]
-		brand = "FARAD"
+		brand = "Farad"
 
 		[params.navigation.links]
 			about     = "About"
